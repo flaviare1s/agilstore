@@ -1,5 +1,7 @@
 # AgilStore - Sistema de Gerenciamento de Inventário
 
+[![English](https://img.shields.io/badge/Read%20in-English-blue)](README_EN.md)
+
 Sistema de gerenciamento de inventário desenvolvido para a AgilStore, uma loja de eletrônicos que precisa controlar seu catálogo de produtos de forma eficiente e automatizada.
 
 ## 📋 Descrição
@@ -302,11 +304,3 @@ Resultado: Estoque do iPhone reduzido de 10 para 8 unidades
 ## 👨‍💻 Autor
 
 Flavia Reis
-
-## 📄 Licença
-
-ISC
-
----
-
-**AgilStore** - Gestão de Inventário Simplificada 🚀

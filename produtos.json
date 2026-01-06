@@ -1,0 +1,12 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Televisão",
+      "categoria": "Eletrônicos",
+      "quantidade": 10,
+      "preco": 3000
+    }
+  ],
+  "proximoId": 2
+}

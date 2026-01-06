@@ -400,7 +400,7 @@ async function atualizarProdutoMenu(inventario) {
   if (Object.keys(dadosAtualizados).length > 0) {
     inventario.atualizarProduto(id, dadosAtualizados);
   } else {
-    console.log("\n⚠ Nenhuma alteração realizada.\n");
+    console.log("\n Nenhuma alteração realizada.\n");
   }
 
   await pergunta("Pressione ENTER para continuar...");
@@ -429,7 +429,7 @@ async function excluirProdutoMenu(inventario) {
   if (confirmacao.trim().toUpperCase() === "S") {
     inventario.excluirProduto(id);
   } else {
-    console.log("\n⚠ Exclusão cancelada.\n");
+    console.log("\n Exclusão cancelada.\n");
   }
 
   await pergunta("Pressione ENTER para continuar...");

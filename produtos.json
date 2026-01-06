@@ -6,7 +6,14 @@
       "categoria": "Eletrônicos",
       "quantidade": 10,
       "preco": 3000
+    },
+    {
+      "id": 2,
+      "nome": "Celular",
+      "categoria": "Eletrônicos",
+      "quantidade": 5,
+      "preco": 2000
     }
   ],
-  "proximoId": 2
+  "proximoId": 3
 }

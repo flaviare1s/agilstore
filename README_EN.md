@@ -54,7 +54,7 @@ cd agilstore
 Execute the command:
 
 ```bash
-npm start
+node index.js
 ```
 
 Or directly with Node:
